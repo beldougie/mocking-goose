@@ -1,0 +1,23 @@
+{
+  "name": "mocking-goose",
+  "version": "1.0.0",
+  "description": "A simple mocking library for mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://beldougie@github.com/beldougie/mocking-goose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mock"
+  ],
+  "author": "Matt Keeble <matt.keeble@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beldougie/mocking-goose/issues"
+  },
+  "homepage": "https://github.com/beldougie/mocking-goose"
+}
